@@ -1,0 +1,13 @@
+name: predPLSR
+title: predPLSR
+username:
+account: srilanka
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8452200
+bundleId: 6904863
+url: https://srilanka.shinyapps.io/predPLSR/
+when: 1677718048.74337
+lastSyncTime: 1677718048.74339
+asMultiple: FALSE
+asStatic: FALSE
